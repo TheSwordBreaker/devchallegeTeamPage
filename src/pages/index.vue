@@ -35,7 +35,7 @@
 	</div>
 
 	<div id="footor" class="flex my-8 text-[#A9A9A9] justify-center items-center">
-		<p >created by username - devChallenges.io</p>
+		<p >created by theSwordBreaker - devChallenges.io</p>
 	</div>
 </template>
 <style>
