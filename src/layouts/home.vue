@@ -1,5 +1,5 @@
 <template>
-  <main md="px-72" class="bg-[#FAFAFA] text-black  px-4 pt-6 ">
+  <main  class="bg-[#FAFAFA] text-black px-4 pt-6 md:px-36 lg:px-72">
     <router-view />
   </main>
 </template>
